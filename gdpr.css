@@ -1,0 +1,20 @@
+div#footerGDPR {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      height: 30px;
+      background: #dddddd;
+      color: #808080;
+      text-align: center;
+      visibility: hidden;
+      z-index: 5; /* Keeps it on top. */
+      font-family: 'Lato', sans-serif;
+      font-size: 0.85em;
+      vertical-align: middle;
+      padding-top: 4px;
+}
+
+#yesGDPR, #noGDPR {
+      margin-right: 5px;
+      margin-left: 5px;
+}
