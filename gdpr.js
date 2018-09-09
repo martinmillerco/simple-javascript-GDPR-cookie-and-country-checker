@@ -88,7 +88,6 @@ function gdprCheck() {
         }
     }
 }
-}
 
 //This script checks for country location and displays GDPR if not U.S.
 function countryCheck() {
