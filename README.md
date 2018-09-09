@@ -10,6 +10,7 @@ I'm open to suggestions on how to improve this.
 3. a CSS file with the styles for the consent bar
 
 ## Installation
-1. Install the javascript as a <head> include.
-2. Add the consent bar div right before the footer area.
-3. Install the CSS as a <head> include.
+1. Add the consent bar div right before the footer area.
+2. Include the gdpr.js
+3. Include the gdpr.css
+4. The getJSON function requires jQuery.
