@@ -1,8 +1,6 @@
 simple-javascript-GDPR-cookie-and-country-checker
 
-This setup allows for a cross installation GDPR cookie. It will still need to be connected to a form which allows turning the GDPR consent on and off but this can be accomplished with button click calls to the appropriate GDPR cookie set functions.
-
-I'm open to suggestions on how to improve this.
+This setup allows for a cross installation GDPR cookie.
 
 ## Setup contains
 1. a Javascript file with all relevant functions
